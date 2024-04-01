@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146696709240",
+    "project_id": "convo-42414",
+    "storage_bucket": "convo-42414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146696709240:android:0a8eeb28bdd2b4c0cb798d",
+        "android_client_info": {
+          "package_name": "com.tauseef.whatsappclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7uaXPK5n4S1xcoqqZXnZyqtMXNqa94E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
